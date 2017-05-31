@@ -1,0 +1,4 @@
+Recibo: 
+Empresa:Barbara
+Cliente:Fernando
+Valor:200.0

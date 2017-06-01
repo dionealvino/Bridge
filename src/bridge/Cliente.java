@@ -11,6 +11,7 @@ public class Cliente {
      */
     public static void main(String[] args) {
          GeradorArquivoTXT arquivoTxt = new GeradorArquivoTXT();
+         GeradorArquivoPDF arquivoPDF = new GeradorArquivoPDF();
     Recibo recibo = new Recibo("Barbara", "Fernando", 200.00, arquivoTxt);
         recibo.geraArquivo();
     }
